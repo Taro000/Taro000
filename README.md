@@ -59,6 +59,7 @@
 - uWSGI
 - Node.js
 - HTML/CSS
+- Swagger
 
 #### Software
 - AdobeXD
