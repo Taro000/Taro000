@@ -1,28 +1,43 @@
 ## 🎓Belongs
-- #### Keio University,  Faculty of Environment and Information
+
+- #### Keio University, Faculty of Environment and Information
 - #### MDBL(Yasushi Kiyoki Lab)
-- #### KART    
+- #### KART
+
 ---
+
 ## 🖌Works
+
+- #### [katie works WebSite](https://dashboard.heroku.com/apps/katie-works)　　
+- #### [Bayes Simulator](https://priceless-clarke-cdcb5f.netlify.app/index.html)　　
 - #### [KART WebSite](https://kart-drone.com)　　
 - #### [35.com](https://insta-movie-suggestion.herokuapp.com/)　
+
 ---
+
 ## 💼Job Histories
+
 - #### Abenew Inc. CTO／Backend Engineer
-    (2018/12 - 2019/07)  
-    I started up company with 4 friends. We were making Hair stylist-matching App.
+
+  (2018/12 - 2019/07)  
+   I started up company with 4 friends. We were making Hair stylist-matching App.
 
 - #### TWO Inc. Backend Engineer Inntern
-    (2019/11 - 2020/04)
+  (2019/11 - 2020/04)
+
 ---
+
 ## 💪Skills
+
 #### Language
+
 - Python
 - Go
 - JavaScript
-- Octave 
+- Octave
 
 #### FrameWork/Library
+
 - Gin
 - Gorm
 - SQLBoiler
@@ -36,16 +51,19 @@
 - React.js
 
 #### Database
+
 - PostgreSQL
 - MySQL
 - Cloud Spanner
 
 #### Cloud/PaaS/IssS
+
 - AWS EC2
 - GCP Cloud SQL
 - GAS
 
 #### API
+
 - LINE Messaging API(LINE BOT)
 - Twitter API (Twitter Bot)
 - Youtube API
@@ -53,6 +71,7 @@
 - PayJP API
 
 #### Others
+
 - Git
 - Linux
 - Docker
@@ -63,6 +82,7 @@
 - Swagger
 
 #### Software
+
 - AdobeXD
 - VirtualBox
 - Postman
@@ -71,8 +91,11 @@
 - Slack
 - Trello
 - esa
+
 ---
-## 📱Links 
+
+## 📱Links
+
 - [Twitter](https://twitter.com/teakyudo)
 - [Facebook](https://www.facebook.com/profile.php?id=100011376413468)
 - [Hatena blog](http://shinta2000ttt.hatenablog.com/)
